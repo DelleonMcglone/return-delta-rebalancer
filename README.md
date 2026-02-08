@@ -119,12 +119,6 @@ forge script script/Deploy.s.sol:DeployScript \
   -vvvv
 ```
 
-### Deployed Addresses
-
-**Unichain Sepolia:**
-- PoolManager: `0x00b036b58a818b1bc34d502d3fe730db729e62ac`
-- ReturnDeltaRebalancer: `<deployed_address>` (coming soon)
-
 ## Contract Addresses
 
 ### Unichain Sepolia Testnet (Chain ID: 1301)
