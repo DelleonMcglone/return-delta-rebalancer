@@ -235,16 +235,6 @@ cast call <HOOK_ADDRESS> "getPositionMetrics(address,bytes32)" <OWNER> <POOL_ID>
 cast call <HOOK_ADDRESS> "getReserves(bytes32)" <POOL_ID> --rpc-url $UNICHAIN_SEPOLIA_RPC
 ```
 
-## Roadmap
-
-- [x] Hook contract implementation
-- [x] Unit tests
-- [x] Deployment script
-- [ ] Deploy to Unichain Sepolia
-- [ ] AgentKit Python agent implementation
-- [ ] Event monitoring system
-- [ ] Demo video
-
 ## Resources
 
 - [Uniswap v4 Docs](https://docs.uniswap.org/contracts/v4/overview)
